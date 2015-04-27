@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+i.mce-ico.mce-i-icon-dropcap{
+	background:url(../img/dropcap.png) no-repeat center; 	
+}
+i.mce-ico.mce-i-icon-tooltip{
+	background:url(../img/tooltip.png) no-repeat center; 	
+}
+i.mce-ico.mce-i-icon-quote{
+	background:url(../img/quote.png) no-repeat center; 	
+}
+i.mce-ico.mce-i-icon-button{
+	background:url(../img/button.png) no-repeat center; 	
+}
+i.mce-ico.mce-i-icon-alert{
+	background:url(../img/alert.png) no-repeat center; 	
+}
+i.mce-ico.mce-i-icon-tabs{
+	background:url(../img/tab.png) no-repeat center; 	
+}
+i.mce-ico.mce-i-icon-collapse{
+	background:url(../img/collapse.png) no-repeat center; 	
+}
+i.mce-ico.mce-i-icon-row-col{
+	background:url(../img/row-col.png) no-repeat center; 	
+}
