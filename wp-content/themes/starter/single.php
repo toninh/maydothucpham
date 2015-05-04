@@ -16,7 +16,7 @@ get_header(); ?>
 		<div class="main_inner">
 			<div class="page-title">
 			  <div class="page-title-inner">
-				<div class="entry-title-main"><?php the_title(); ?></div>
+				<div class="entry-title-main"></div>
 			  </div>
 			</div>
 						

@@ -11,8 +11,7 @@
  * @package cactus
  */
 get_header(); ?>
-
-
+<h1></h1>
 <div class="top_main">
 	<div class="topbar-banner" style="margin-left: 2.7%;">
 		<div class="top-banner-inner container">
@@ -42,7 +41,6 @@ get_header(); ?>
 		</div>	
 	</div>
 </div>
-
 <div id="main" class="site-main extra">
 <div class="main_inner">
 			

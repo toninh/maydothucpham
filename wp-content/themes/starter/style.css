@@ -30,8 +30,8 @@ Text Domain: templatemela
 -------------------------------------------------------------------*/
 
 body {
-    color: #696969;
-    font-family:'Istok Web',Arial,Helvetica,sans-serif;
+    color: #666666;
+    font-family:Arial;
     font-size: 14px;
     font-weight: normal;
     line-height: 20px;
@@ -48,6 +48,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     border: 0;
     font-style: inherit;
     font-weight: inherit;
+	font-family:Arial;
     margin: 0;
     outline: 0;
     padding: 0;
@@ -2073,7 +2074,7 @@ a.post-thumbnail:hover {
 .woocommerce .woocommerce-breadcrumb, .woocommerce-breadcrumb {
     font-size: 14px;
     margin: 2px 0;
-	float:right;
+	float:left;
 	
 }
 
@@ -2116,11 +2117,9 @@ h1.entry-title {
     line-height: 19px;
     padding: 0 0 11px;
     margin-bottom: 0px;
-	color: #696969;
-	font-family: "Archivo Narrow";
+	color: #004175;
+	font: 700 24px/23px "Times New Roman";
     font-size: 18px;
-	text-transform: uppercase;
-
 }
 
 .type-product .summary div.description { border-bottom: 1px solid #eeeeee; }
@@ -3516,18 +3515,19 @@ article.type-product .entry-header:before{background-position: -21px -34px;}
 
 
 .widget .widget-title {
-    color: #fff;
+    color: #003866;
     font-size: 18px;
+	font-weight: Bold;
     margin:0;
     padding: 10px;
-	font-family: "Archivo Narrow",sans-serif;
+	font-family: Arial;
 	border-left:5px solid #ffe35f;
-	background: #999999;
+	background: #F0F0F0;
 	text-transform: uppercase;	
 }
 .widget.woocommerce.widget_product_categories h1, .widget.woocommerce.widget_product_categories .widget-title
 {
-	background:url("images/megnor/category.jpg") no-repeat scroll -6px 0px #2fb991;
+	background:url("images/megnor/category.jpg") no-repeat scroll -6px 0px #DAD2D8;
 	padding:9px 0 9px 65px;
 	margin:0;
 	border:none;

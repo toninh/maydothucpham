@@ -787,11 +787,10 @@ p.demo_store {
     font-size: 18px;
     margin:0;
 	display: inline-block;
-	text-transform:uppercase;
 	padding:10px 10px 10px 0;
 	border-bottom: 1px solid #eee;
 	width:100%;
-	font-family:"Archivo Narrow",sans-serif;
+	font-family:Arial;
 }
 
 .woocommerce #content div.product p.cart,.woocommerce div.product p.cart,.woocommerce-page #content div.product p.cart,.woocommerce-page div.product p.cart {

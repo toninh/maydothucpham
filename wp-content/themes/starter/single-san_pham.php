@@ -16,7 +16,7 @@ get_header(); ?>
 <div class="main_inner">
 	<div class="page-title">
 	  <div class="page-title-inner">
-		<h1 class="entry-title-main"><?php the_title(); ?></h1>		
+		<div class="entry-title-main"></div>		
 	  </div>
 	</div>
 				
@@ -65,7 +65,7 @@ get_header(); ?>
 		
 			<div class="panel entry-content" id="tab-description">
 				
-				<h2>Mô tả chi tiết sản phẩm</h2>
+				<h2><b>Mô tả chi tiết sản phẩm</b></h2>
 
 				<div id="idTab1">
 					<?php the_content(); ?>
@@ -81,7 +81,7 @@ get_header(); ?>
 <?php endwhile; endif; ?>
 	<div class="related products">
 
-		<h2>Sản phẩm liên quan</h2>
+		<h2 style="font-weight: bold;">Sản phẩm liên quan</h2>
 
 		<ul class="products">
 					<?php
@@ -131,7 +131,7 @@ get_header(); ?>
 			<?php get_sidebar(); ?>
 			
 			<aside id="woocommerce_products-2" class="widget woocommerce widget_products">
-				<h1 class="widget-title">Sẩn phẩm</h1>
+				<div class="widget-title">Sẩn phẩm</div>
 				<ul class="product_list_widget">
 					<?php
 						$args = array( 
