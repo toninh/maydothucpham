@@ -27,14 +27,14 @@ get_header(); ?>
 										<div class="content-inner">
 										<a href="Skype:hoc_lai?chat"><i class="fa fa-skype" style=" color: #268CEF;"></i></a>
 										<div class="cms-title">Ms. Huyền</div> <br>
-										<div class="cms-desc">Phone: 0963 637 999</div>
+										<div class="cms-desc">Phone: 0972 231 637</div>
 										</div>
 									</li>
 									<li class="content3 content">
 										<div class="content-inner">
 										<a href="Skype:buingoc9090?chat"><i class="fa fa-skype" style=" color: #268CEF;"></i></a>
 										<div class="cms-title">Ms. Ngọc</div> <br>
-										<div class="cms-desc">Phone: 0963 637 999</div>
+										<div class="cms-desc">Phone: 0963 439 773</div>
 										</div>
 									</li>
 					</ul>
