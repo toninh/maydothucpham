@@ -506,6 +506,8 @@
 }
 /* Collapse oversized image and pulled images after iPad breakpoint. */
 @media only screen and (min-width: 768px) and (max-width: 999px) {
+	.topbar-banner ul li {float:none;width:100%;}
+	.topbar-banner ul li.content3 .content-inner{ margin:0;}
 	.slider_area_inner, .main-content-inner, .panel-row-style-inner-container, .home .main-content.left-sidebar, .top_main, .footer-bottom-container, .site-top {width:724px; margin:0 auto;}
 	.footer-block-inner, .page_inner, .topbar-outer-inner, .home-slider-container{width:724px;}
 	.header-main{width:724px;}
@@ -597,6 +599,8 @@
 	.footer-bottom-left{width:66%;}
 }
 @media (max-width: 767px) {
+	.topbar-banner ul li {float:none;width:100%;}
+	.topbar-banner ul li.content3 .content-inner{ margin:0;}
 	.ei-slider{height:220px;}
 	.slider_area_inner, .main-content-inner, .panel-row-style-inner-container, .home .main-content.left-sidebar, .top_main, .footer-bottom-container, .site-top {width:auto; /*margin:0 15px;*/}
 	.footer-block-inner, .page_inner{width:auto; margin:0 15px;}
@@ -909,6 +913,8 @@
 		width: 100%;
 	}
 	.woocommerce .cart-collaterals .cart_totals, .woocommerce-page .cart-collaterals .cart_totals{width:100%;}
+	.topbar-banner ul li {float:none;width:100%;}
+	.topbar-banner ul li.content3 .content-inner{ margin:0;}
 }
 @media only screen and (max-width: 479px) {
 	.ei-slider-thumbs{display:none !important;}
@@ -1095,11 +1101,15 @@
 	.newsletter tr{float:none; width:100%;}
 	
 	.footer-block .newsletter .newsletter-email , .newsletter .newsletter-submit{ margin: 0; width: 100%; }
+	.topbar-banner ul li {float:none;width:100%;}
+	.topbar-banner ul li.content3 .content-inner{ margin:0;}
 }
 @media only screen and (max-width: 350px){
 	#shop-grid.products li { width: 100%; }
 	.newsletter input{width:65px;}
 	.grid .blog-list .entry-main-content .entry-thumbnail, .blog-list .entry-main-content .entry-thumbnail { float:none; } 
+	.topbar-banner ul li {float:none;width:100%;}
+	.topbar-banner ul li.content3 .content-inner{ margin:0;}
 }
 @media only screen and (max-width: 319px){	
 	.home .sidebar-category.treeview-list.treeview{width:210px;}	
@@ -1172,7 +1182,11 @@
 	.upsells.products > h2, .related.products h2{text-transform:capitalize;}
 	
 	.newsletter.newsletter-subscription.main-ul{width:100%;}
+	.topbar-banner ul li {float:none;width:100%;}
+	.topbar-banner ul li.content3 .content-inner{ margin:0;}
 }
 @media only screen and (max-width:240px) {
 	.single-testimonial .testmonial-image{padding-right:10px;}
+	.topbar-banner ul li {float:none;width:100%;}
+	.topbar-banner ul li.content3 .content-inner{ margin:0;}
 }

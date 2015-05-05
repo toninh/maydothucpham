@@ -11,9 +11,9 @@
  * @package cactus
  */
 get_header(); ?>
-<h1></h1>
+
 <div class="top_main">
-	<div class="topbar-banner" style="margin-left: 2.7%;">
+	<div class="topbar-banner">
 		<div class="top-banner-inner container">
 					<ul class="top-banner-container">
 									<li class="content1 content">

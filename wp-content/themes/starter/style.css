@@ -6640,7 +6640,7 @@ h1.entry-title-port {
 .topbar-banner{	
 	overflow:hidden;	
 }
-.topbar-banner .top-banner-inner { margin:0 auto; }
+.topbar-banner .top-banner-inner { width:1200px;margin:0 auto; }
 .topbar-banner .top-banner-container {  
 	background: none repeat scroll 0 0 #ffffff;
     width: 100%;
@@ -6654,7 +6654,7 @@ h1.entry-title-port {
 	
 	
 }
-.topbar-banner ul li.content .content-inner{float:left;}
+.topbar-banner ul li.content .content-inner{margin: 0 auto;}
 
 .topbar-banner ul li.content3 .content-inner { padding-left:35px;  border-left: 1px solid #dcdcdc;
     margin-left: 40px; }
@@ -6680,12 +6680,10 @@ h1.entry-title-port {
 	color:#555555;
 	font-family:"Times New Roman", Georgia, Serif;
 	font-size:15px;
-	float:left;
 	text-transform: uppercase;
 	font-weight:bold;
 	}
 .topbar-banner .cms-desc{ 
-	float:left;
 	margin-left: 33px;
 	margin-top: -16px;
 	}

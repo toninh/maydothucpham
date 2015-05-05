@@ -76,15 +76,6 @@
 	</div>
   <!-- End site-main -->	
   </div>							
-</header>
-	<!--	<div class="site-top">
-				<div class="top_main">
-								  <div class="topbar-banner">
-					<div class="top-banner-inner container"><ul class="top-banner-container"><li class="content1 content"><div class="content-inner"><i class="fa fa-usd"></i><div class="cms-title">UP TO 5% REWARD</div> <div class="cms-desc">At vero eos et accusamus et iusto odio dignis</div></div></li><li class="content2 content"><div class="content-inner"><i class="fa fa-calendar"></i><div class="cms-title">DELIVERY SCHEDULE</div> <div class="cms-desc">At vero eos et accusamus et iusto odio dignis</div></div></li><li class="content3 content"><div class="content-inner"><i class="fa fa-gift"></i><div class="cms-title">SAME DAY SHIPPING</div> <div class="cms-desc">At vero eos et accusamus et iusto odio dignis</div></div></li></ul></div>				  </div>
-						
-				</div>	
-			</div>
-	
-    <!-- End header-main -->							
+</header>					
 	  
     </div>
