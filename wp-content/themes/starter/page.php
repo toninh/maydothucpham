@@ -20,7 +20,7 @@ get_header(); ?>
 		<div class="main_inner">
 			<div class="page-title">
 			  <div class="page-title-inner">
-				<h1 class="entry-title-main"><?php the_title(); ?></h1>
+				<div class="entry-title-main"></div>
 			  </div>
 			</div>
 						
