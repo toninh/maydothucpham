@@ -344,7 +344,6 @@ get_header(); ?>
 					<div id="khachhang" class="container-inner">
 						<div class="post-image">
 							<?php if(has_post_thumbnail()){ the_post_thumbnail(); } ?>
-							<a href="<?php the_permalink(); ?>" class="block_hover"></a>
 							<div class="post-image-hover"></div>
 						</div>
 						<div class="post-content-inner">

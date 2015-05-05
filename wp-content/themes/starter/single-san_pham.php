@@ -160,8 +160,7 @@ get_header(); ?>
 				?>
 			<aside id="leftbannerwidget-2" class="widget widgets-leftbanner">		
 				<div class="left-banner">
-					<a href="<?php echo $banner4[link_banner2]; ?>"> 
-						<img src="<?php echo $banner4[imagebanner2]; ?>" alt="banner" />
+					<a href="<?php echo $banner4[link_banner3]; ?>"> 
 					</a> 
 				</div>
 			</aside>  
