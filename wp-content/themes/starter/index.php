@@ -19,24 +19,18 @@ get_header(); ?>
 									<li class="content1 content">
 										<div class="content-inner">
 										<a href="Skype:congbt?chat"><i class="fa fa-skype" style=" color: #268CEF;"></i></a>
-										<div class="cms-title">Mr. Công</div> <br>
+										<div class="cms-title">Mr. Quang</div> <br>
 										<div class="cms-desc">Phone: 0963 637 999</div>
 										</div>
 									</li>
 									<li class="content2 content">
 										<div class="content-inner">
-										<a href="Skype:hoc_lai?chat"><i class="fa fa-skype" style=" color: #268CEF;"></i></a>
-										<div class="cms-title">Ms. Huyền</div> <br>
-										<div class="cms-desc">Phone: 0972 231 637</div>
+										<a href="Skype:congbt?chat"><i class="fa fa-skype" style=" color: #268CEF;"></i></a>
+										<div class="cms-title">Liên hệ với chúng tôi</div> <br>
+										<div class="cms-desc">Phone: (04) 22 66 44 88</div>
 										</div>
 									</li>
-									<li class="content3 content">
-										<div class="content-inner">
-										<a href="Skype:buingoc9090?chat"><i class="fa fa-skype" style=" color: #268CEF;"></i></a>
-										<div class="cms-title">Ms. Ngọc</div> <br>
-										<div class="cms-desc">Phone: 0963 439 773</div>
-										</div>
-									</li>
+									
 					</ul>
 		</div>	
 	</div>
