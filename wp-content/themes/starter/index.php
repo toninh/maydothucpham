@@ -97,6 +97,13 @@ get_header(); ?>
 				</div>
 			</div>
 		</div>
+		<div class="textwidgeth1">
+					<div class="main-container">
+							<h1 style="color:#3a3a3a; font-size:18px; color:#04815D; font-weight:bold;">
+							<center>Máy đo an toàn thực phẩm Soeks. Vì chính sức khỏe của bạn và những người thân yêu.</center>
+							</h1>	
+					</div>
+		</div>
 	<div class="panel-grid animated" id="pg-3663-1" data-animated="fadeInUp">
 		<div class="panel-grid-cell" id="pgc-3663-1-0" >
 			<div class="panel widget widget_black-studio-tinymce panel-first-child panel-last-child" id="panel-3663-1-0-0">

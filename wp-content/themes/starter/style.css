@@ -6863,3 +6863,8 @@ ul.accepted-payment-methods li{display:inline-block !important;margin:0 5px 5px 
 #khachhang .post-content-inner { }
 #khachhang .post-image img { width:100%;height:100%; border-radius:100%;-moz-border-radius:100%;webkit-border-radius:100%;}
 div.description{clear:both;}
+.textwidgeth1{
+	background: rgb(239, 239, 239);
+	padding: 20px 0;
+	border-radius: 5px;
+}

@@ -9,7 +9,7 @@
 	<aside id="woocommerce_product_categories-7" class="widget woocommerce widget_product_categories">
 		<h3 class="widget-title">Tin mới</h3>
 			<div class="sidebar-category">
-				<ul class="product-categories" style="height: 460px; overflow-y: scroll;">
+				<ul class="product-categories" style="height: 440px; overflow-y: scroll;">
 				<?php
 					$showpost = new WP_Query('post_type=post&showposts=8&cat=1');
 					if($showpost->have_posts()):while($showpost->have_posts()):$showpost->the_post();
