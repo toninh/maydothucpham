@@ -6677,15 +6677,18 @@ h1.entry-title-port {
 .topbar-banner .content span { position:relative; bottom:4px; }
 
 .topbar-banner .cms-title {  
-	color:#555555;
+	padding-top: inherit;
+	color:#ff9900;
 	font-family:"Times New Roman", Georgia, Serif;
 	font-size:15px;
 	text-transform: uppercase;
 	font-weight:bold;
 	}
 .topbar-banner .cms-desc{ 
+	color:#ff0000;
 	margin-left: 33px;
 	margin-top: -16px;
+	font-weight:bold;
 	}
 	
 .inner-container.content-main {

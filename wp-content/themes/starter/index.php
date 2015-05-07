@@ -18,9 +18,9 @@ get_header(); ?>
 					<ul class="top-banner-container">
 									<li class="content1 content">
 										<div class="content-inner">
-										<a href="Skype:congbt?chat"><i class="fa fa-skype" style=" color: #268CEF;"></i></a>
-										<div class="cms-title">Mr. Quang</div> <br>
-										<div class="cms-desc">Phone: 0963 637 999</div>
+										<div class="cms-title" style="padding-top: inherit;">Mr. Quang</div>
+										<div style="color:#ff0000;font-weight:bold; padding-top:inherit; padding-bottom:inherit;">Phone: 0963 637 999</div>
+										<a href="ymsgr:sendim?quangbv3891"><img src="http://opi.yahoo.com/online?u=daretowin0511&amp;m=g&amp;t=2&amp;l=us&amp;opi.jpg"></a>					
 										</div>
 									</li>
 									<li class="content2 content">
