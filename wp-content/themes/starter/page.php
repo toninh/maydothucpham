@@ -81,7 +81,7 @@ get_header(); ?>
 		</aside>
 		
 		<aside id="archives-2" class="widget widget_archive">
-			<h1 class="widget-title">Lưu trữ</h1>		
+			<div class="widget-title">Lưu trữ</div>		
 			<ul>
 							<?php $arg_archive = array(
 
