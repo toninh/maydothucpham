@@ -34,20 +34,9 @@
 </head>
 	
 <body <?php body_class('woocommerce'); ?>>
-<<<<<<< HEAD
 <script lang="javascript">(function() {var _h1= document.getElementsByTagName('title')[0] || false;var product_name = ''; if(_h1){product_name= _h1.textContent || _h1.innerText;}var ga = document.createElement('script'); ga.type = 'text/javascript';ga.src = '//live.vnpgroup.net/js/web_client_box.php?hash=d297c42afce5c2173ace585f70b46fb6&data=eyJzc29faWQiOjI2MzYzNzUsImhhc2giOiI2NDJjOGY1YmEwNjZjNzBlZjYzY2E1NGFmYmIyN2M1OCJ9&pname='+product_name;var s = document.getElementsByTagName('script');s[0].parentNode.insertBefore(ga, s[0]);})();</script>	
 
 
-
-
-=======
-<script lang="javascript">
-(function() {var _h1= document.getElementsByTagName('title')[0] || false;
-var product_name = ''; if(_h1){product_name= _h1.textContent || _h1.innerText;}var ga = document.createElement('script'); ga.type = 'text/javascript';
-ga.src = '//live.vnpgroup.net/js/web_client_box.php?hash=2e58d185e4d5f9f0b2eae01c27518314&data=eyJzc29faWQiOjIwNjAwODUsImhhc2giOiJkZTFiZWY5YjgxZmU4ODY0ZGQyNjBjM2JiMDFiNjNlZCJ9&pname='+product_name;
-var s = document.getElementsByTagName('script');s[0].parentNode.insertBefore(ga, s[0]);})();
-</script>	
->>>>>>> bc8310faba76ea2559204f7f0d9610109ea66a02
 <!--<div class="home-slider-inner banner-loading"></div>-->
 <div id="page" class="hfeed site">
 <!-- Header -->
