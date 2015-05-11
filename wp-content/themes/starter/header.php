@@ -33,7 +33,12 @@
 </head>
 	
 <body <?php body_class('woocommerce'); ?>>
-<script type='text/javascript'>window._sbzq||function(e){e._sbzq=[];var t=e._sbzq;t.push(["_setAccount",20195]);var n=e.location.protocol=="https:"?"https:":"http:";var r=document.createElement("script");r.type="text/javascript";r.async=true;r.src=n+"//static.subiz.com/public/js/loader.js";var i=document.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)}(window);</script>
+<script lang="javascript">
+(function() {var _h1= document.getElementsByTagName('title')[0] || false;
+var product_name = ''; if(_h1){product_name= _h1.textContent || _h1.innerText;}var ga = document.createElement('script'); ga.type = 'text/javascript';
+ga.src = '//live.vnpgroup.net/js/web_client_box.php?hash=2e58d185e4d5f9f0b2eae01c27518314&data=eyJzc29faWQiOjIwNjAwODUsImhhc2giOiJkZTFiZWY5YjgxZmU4ODY0ZGQyNjBjM2JiMDFiNjNlZCJ9&pname='+product_name;
+var s = document.getElementsByTagName('script');s[0].parentNode.insertBefore(ga, s[0]);})();
+</script>	
 <!--<div class="home-slider-inner banner-loading"></div>-->
 <div id="page" class="hfeed site">
 <!-- Header -->
