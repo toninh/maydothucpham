@@ -262,6 +262,26 @@ get_header(); ?>
 		</div>
 	</div>
 	<?php endif; ?>
+	
+	<div class="panel-grid animated" id="pg-3663-8" data-animated="fadeInUp">
+	<div class="panel-grid-cell" id="pgc-3663-4-8" >
+	<div class="panel widget widget_black-studio-tinymce panel-first-child panel-last-child" id="panel-3663-4-0-8">
+	    <center>
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		<!-- thaifun_ad_top_storylist -->
+		<ins class="adsbygoogle"
+			 style="display:inline-block;width:728px;height:90px"
+			 data-ad-client="ca-pub-4664040973622808"
+			 data-ad-slot="2427961779"></ins>
+		<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+		</script>
+		</center>
+	</div>
+	</div>
+	</div>
+	
+
 		<div class="panel-grid animated" id="pg-3663-4" data-animated="fadeInUp">
 		<div class="panel-grid-cell" id="pgc-3663-4-0" >
 		<div class="panel widget widget_black-studio-tinymce panel-first-child panel-last-child" id="panel-3663-4-0-0">
