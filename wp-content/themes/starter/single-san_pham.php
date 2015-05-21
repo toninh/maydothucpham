@@ -52,6 +52,7 @@ get_header(); ?>
 			</p>
 		</div>
 		<div>
+		            <h1 class="product_title entry-title">Chúng tôi ước mong được phục vụ bạn.</h1>
 					<ul class="top-banner-container">
 									<li class="content1 content">
 										<div class="content-inner">
