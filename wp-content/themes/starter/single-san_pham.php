@@ -63,9 +63,10 @@ get_header(); ?>
 									</li>
 									<li class="content2 content">
 										<div class="content-inner">
-										<a href="Skype:congbt?chat"><i class="fa fa-skype" style=" color: #268CEF;"></i></a>
+										
 										<div class="cms-title">Liên hệ với chúng tôi</div> <br>
 										<div style="color:#ff0000;font-weight:bold; padding-top:inherit; padding-bottom:inherit;">Phone: (04) 22 66 44 88</div>
+										<a href="Skype:congbt?chat"><i class="fa fa-skype" style=" color: #268CEF; font-size: 37px;"></i></a>
 										</div>
 									</li>
 									
