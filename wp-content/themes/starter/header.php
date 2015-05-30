@@ -32,8 +32,8 @@
 
 </script>
 <script>(function() {
-  var _fbq = window._fbq || (window._fbq = []);
   if (!_fbq.loaded) {
+  var _fbq = window._fbq || (window._fbq = []);
     var fbds = document.createElement('script');
     fbds.async = true;
     fbds.src = '//connect.facebook.net/en_US/fbds.js';
@@ -67,7 +67,7 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 				</div>
 					  
 				<div class="header_right">
-					<img src="<?php echo ot_get_option('banner'); ?>" alt="banner" title="banner" />
+					<a href="http://vocab.vn/" rel="Dofollow"><img src="<?php echo ot_get_option('banner'); ?>" alt="banner" title="banner" /></a>
 				</div>
 			</div>
 	   </div>
