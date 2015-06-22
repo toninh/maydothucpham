@@ -47,6 +47,7 @@ window._fbq = window._fbq || [];
 window._fbq.push(['track', 'PixelInitialized', {}]);
 </script>
 <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=441354832709948&amp;ev=PixelInitialized" /></noscript>
+<link rel="author" href="https://plus.google.com/u/0/+M%C3%A1y%C4%91oAnto%C3%A0nth%E1%BB%B1cph%E1%BA%A9m/posts"/>
 </head>
 	
 <body <?php body_class('woocommerce'); ?>>
