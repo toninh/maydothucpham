@@ -19,7 +19,7 @@ get_header(); ?>
 									<li class="content1 content">
 										<div class="content-inner">
 										<div class="cms-title" style="padding-top: inherit;">Mr. Quang</div>
-										<div style="color:#ff0000;font-weight:bold; padding-top:inherit; padding-bottom:inherit;">Phone: 0963 637 999</div>
+										<div style="color:#ff0000;font-weight:bold; padding-top:inherit; padding-bottom:inherit;">Phone: 096 36 37 999</div>
 										<a href="ymsgr:sendim?quangbv3891"><img src="http://opi.yahoo.com/online?u=daretowin0511&amp;m=g&amp;t=2&amp;l=us&amp;opi.jpg"></a>					
 										</div>
 									</li>
