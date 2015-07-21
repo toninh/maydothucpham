@@ -40,9 +40,11 @@ get_header(); ?>
 		</a>
 	</div>
 
-	<div class="summary entry-summary">
+	<div itemscope itemtype="http://schema.org/Recipe" class="summary entry-summary">
 
-		<h1 class="product_title entry-title"><?php the_title(); ?></h1>
+		<h1 itemprop="name" class="product_title entry-title"><?php the_title(); ?></h1>
+		<?php $thumb = wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), 'thumbnail' ); $url = $thumb['0']; ?>
+		<meta itemprop="image" content="<?php echo $url ?>">
 		<div>
 			<p class="price"><span class="amount" style="color: rgb(197, 6, 6); border: 1px;font-family: Times new roman; font-size: 28px;"><?php echo get_field('price').' VNĐ'; ?></span></p>
 		</div>
@@ -200,14 +202,3 @@ get_header(); ?>
 <!-- #main -->
 </div>
 <?php get_footer(); ?>
-<div itemscope itemtype="http://schema.org/Recipe">
-  <h1 itemprop="name">Grandma's Holiday Apple Pie</h1>
-  <?php $thumb = wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), 'thumbnail' ); $url = $thumb['0']; ?>
- <img itemprop="image" src="<?php echo $url; ?>" alt="<?php the_title();?>" title="<?php the_title();?>" width="50" height="50" />
-  By <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-       <span itemprop="name">Carol Smith</span>
-     </span>
-  Published: <time datetime="2009-11-05" itemprop="datePublished">
-    November 5, 2009</time>
-  <span itemprop="description">Thiết bị đo</span>
-</div>
