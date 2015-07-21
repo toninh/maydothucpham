@@ -200,3 +200,15 @@ get_header(); ?>
 <!-- #main -->
 </div>
 <?php get_footer(); ?>
+<script type="application/ld+json">
+{
+"@context": "http://schema.org/",
+  "@type": "Recipe",
+  "name": "Grandma's Holiday Apple Pie",
+  "image": "http://maydothucpham.com/wp-content/uploads/2015/04/Untitled5.jpg",
+  "author":{
+    "@type":"Person",
+    "name":"Carol Smith"
+   }
+}
+</script>
