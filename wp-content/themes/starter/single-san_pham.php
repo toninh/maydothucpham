@@ -200,15 +200,14 @@ get_header(); ?>
 <!-- #main -->
 </div>
 <?php get_footer(); ?>
-<script type="application/ld+json">
-{
-"@context": "http://schema.org/",
-  "@type": "Recipe",
-  "name": "Grandma's Holiday Apple Pie",
-  "image": "http://maydothucpham.com/wp-content/uploads/2015/04/Untitled5.jpg",
-  "author":{
-    "@type":"Person",
-    "name":"Carol Smith"
-   }
-}
-</script>
+<div itemscope itemtype="http://schema.org/Recipe">
+  <h1 itemprop="name">Grandma's Holiday Apple Pie</h1>
+  <?php $thumb = wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), 'thumbnail' ); $url = $thumb['0']; ?>
+ <img itemprop="image" src="<?php echo $url; ?>" alt="<?php the_title();?>" title="<?php the_title();?>" width="50" height="50" />
+  By <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+       <span itemprop="name">Carol Smith</span>
+     </span>
+  Published: <time datetime="2009-11-05" itemprop="datePublished">
+    November 5, 2009</time>
+  <span itemprop="description">Thiết bị đo</span>
+</div>
