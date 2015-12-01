@@ -1023,13 +1023,13 @@ p.demo_store {
 
 .woocommerce ul.products li.product h3,.woocommerce-page ul.products li.product h3 {
     /*padding: 5px 0;*/   
-	font-family: "Istok Web",Arial,Helvetica,sans-serif;
-   	font-size:18px;
+   	font-size:16px;
 	display:inline-block;
 	margin:0;
-	text-transform: capitalize;
 	padding:0 0 3px;
-	color:#696969;
+	line-height: 1;
+    font-family: "Arial",serif;
+    color: #0053a6;
 }
 
 .woocommerce ul.products.list li.product h3,.woocommerce-page ul.products.list li.product h3 {
