@@ -911,16 +911,15 @@ span + .edit-link:before,
     float: none;
 }
 
-.topbar-main #navbar{width:1200px; margin:0 auto;}
+.topbar-main #navbar{width:100%; margin:0 auto;}
 .slider_area_inner, .main-content-inner, .panel-row-style-inner-container, .home .main-content.left-sidebar, .footer-bottom-container {
-    width: 1200px;
+    width: 100%;
 }
-.site-top{padding:0; width:1200px;}
+.site-top{padding:0; width:100%;}
 
 .topbar-main {
     background-color:#999999;
     color: #fff;
-	margin:10px 0;
 }
 
 .wide-page .main-content-inner {
@@ -1256,7 +1255,7 @@ span + .edit-link:before,
 
 .home-slider-container {
     margin: 0 auto;
-    width: 1200px;
+    width: 100%;
 }
 .home-slider-container-inner {
     float: right;
