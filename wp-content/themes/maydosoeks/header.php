@@ -85,7 +85,13 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 													
 						</nav><!-- #site-navigation -->
 						<div class="header-search">
-							<?php get_search_form(); ?> 	
+							<ul id="menu-menu" class="mega menuphone" >
+								<li><span style="color:#fff;">Đặt hàng 1:</span></li>
+								<li style="margin-left:5px;font-weight:bold;">096 36 37 999</li>
+								<li style="color:#FFF;">|</li>
+								<li><span style="color:#fff;">Đặt hàng 2:</span></li>
+								<li style="margin-left:5px;font-weight:bold;">04 22 66 44 88</li>
+							</ul>
 						</div>
 							
 		</div><!-- End header-bottom #navbar -->	
