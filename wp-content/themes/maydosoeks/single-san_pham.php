@@ -56,19 +56,16 @@ get_header(); ?>
 		<div>
 		            <h2 class="product_title entry-title">Chúng tôi ước mong được phục vụ bạn.</h2>
 					<ul class="top-banner-container">
-									<li class="content1 content">
+									<li class="content1 content" style="list-style:none inside;">
 										<div class="content-inner">
-										<div class="cms-title" style="padding-top: inherit;">Mr. Quang</div>
-										<div style="color:#ff0000;font-weight:bold; padding-top:inherit; padding-bottom:inherit;">Hotline: 096 36 37 999</div>
-										<a href="ymsgr:sendim?quangbv3891"><img src="http://opi.yahoo.com/online?u=daretowin0511&amp;m=g&amp;t=2&amp;l=us&amp;opi.jpg"></a>					
+											<div class="cms-title" style="padding-top: inherit; font-family:Arial,serif;text-transform: none;color: #000;font-weight: bold;">Mr. Quang</div>
+											<div style="color:#ff0000;font-weight:bold; padding-top:inherit; padding-bottom:inherit;">Hotline: 096 36 37 999</div>
 										</div>
 									</li>
-									<li class="content2 content">
+									<li class="content2 content" style="list-style:none inside;">
 										<div class="content-inner">
-										
-										<div class="cms-title">Liên hệ với chúng tôi</div> <br>
-										<div style="color:#ff0000;font-weight:bold; padding-top:inherit; padding-bottom:inherit;">Phone: (04) 22 66 44 88</div>
-										<a href="Skype:congbt?chat"><i class="fa fa-skype" style=" color: #268CEF; font-size: 37px;"></i></a>
+											<div class="cms-title" style="padding-top: inherit; font-family:Arial,serif;text-transform: none;color: #000;font-weight: bold;">Liên hệ với chúng tôi</div> <br>
+											<div style="color:#ff0000;font-weight:bold; padding-top:inherit; padding-bottom:inherit;">Phone: (04) 22 66 44 88</div>
 										</div>
 									</li>
 									
