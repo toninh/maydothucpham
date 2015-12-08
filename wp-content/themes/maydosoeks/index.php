@@ -24,7 +24,7 @@ get_header(); ?>
 
 <!-- #masthead -->
 <!-- Center -->
-<div id="main" class="site-main extra">
+<div id="main" class="site-main extra" style="padding-top:53px;">
 <div class="main_inner">
 			
 <div class="main-content-inner-full">
