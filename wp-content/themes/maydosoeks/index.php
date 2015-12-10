@@ -11,7 +11,7 @@
  * @package cactus
  */
 get_header(); ?>
-<div id="main" class="site-main extra">
+<div id="main" class="site-main extra" style="padding-top:16px;">
 <div class="main_inner">
 			
 <!-- Start main slider -->
@@ -24,8 +24,8 @@ get_header(); ?>
 
 <!-- #masthead -->
 <!-- Center -->
-<div id="main" class="site-main extra" style="padding-top:53px;">
-<div class="main_inner">
+<div id="main" class="site-main extra">
+<div class="main_inner" >
 			
 <div class="main-content-inner-full">
 <div id="main-content" class="main-content home-page full-width box-page">
