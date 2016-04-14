@@ -64,8 +64,14 @@ get_header(); ?>
 									</li>
 									<li class="content2 content" style="list-style:none inside;">
 										<div class="content-inner">
-											<div class="cms-title" style="padding-top: inherit; font-family:Arial,serif;text-transform: none;color: #000;font-weight: bold;">Liên hệ với chúng tôi</div> <br>
+											<div class="cms-title" style="padding-top: inherit; font-family:Arial,serif;text-transform: none;color: #000;font-weight: bold;">Liên hệ với chúng tôi</div> 
 											<div style="color:#ff0000;font-weight:bold; padding-top:inherit; padding-bottom:inherit;">Phone: (04) 22 66 44 88</div>
+										</div>
+									</li>
+									<li class="content2 content" style="list-style:none inside;">
+										<div class="content-inner">
+											<div class="cms-title" style="padding-top: inherit; font-family:Arial,serif;text-transform: none;color: #000;font-weight: bold;">Khu vực Tây Nguyên</div>
+											<div style="color:#ff0000;font-weight:bold; padding-top:inherit; padding-bottom:inherit;">Phone: 0919 220 559</div>
 										</div>
 									</li>
 									
