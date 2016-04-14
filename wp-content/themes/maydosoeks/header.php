@@ -107,6 +107,9 @@ src="https://www.facebook.com/tr?id=326540540850442&ev=PageView&noscript=1"
 								<li style="color:#FFF;">|</li>
 								<li><span style="color:#fff;">Đặt hàng 2:</span></li>
 								<li style="margin-left:5px;font-weight:bold;">04 22 66 44 88</li>
+								<li style="color:#FFF;">|</li>
+								<li><span style="color:#fff;">KV Tây Nguyên:</span></li>
+								<li style="margin-left:5px;font-weight:bold;">0919 220 559</li>
 							</ul>
 						</div>
 							
