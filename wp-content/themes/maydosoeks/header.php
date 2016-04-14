@@ -103,10 +103,7 @@ src="https://www.facebook.com/tr?id=326540540850442&ev=PageView&noscript=1"
 						<div class="header-search">
 							<ul id="menu-menu" class="mega menuphone" >
 								<li><span style="color:#fff;">Đặt hàng 1:</span></li>
-								<li style="margin-left:5px;font-weight:bold;">096 36 37 999</li>
-								<li style="color:#FFF;">|</li>
-								<li><span style="color:#fff;">Đặt hàng 2:</span></li>
-								<li style="margin-left:5px;font-weight:bold;">04 22 66 44 88</li>
+								<li style="margin-left:5px;font-weight:bold;">096 36 37 999 - 04 22 66 44 88</li>
 								<li style="color:#FFF;">|</li>
 								<li><span style="color:#fff;">KV Tây Nguyên:</span></li>
 								<li style="margin-left:5px;font-weight:bold;">0919 220 559</li>
